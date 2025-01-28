@@ -13,6 +13,6 @@ For more information, see [html5 Boilerplate docs](https://github.com/h5bp/html5
 
 ### To build for release run the following:
 
-    mpm run build
+    npm run build
 
 Files to be released / distributed will be placed in the folder named `dist` copy its contents to standard web hosting provider or add to [IPFS](https://ipfs.tech/) to deploy.
