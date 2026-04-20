@@ -29,12 +29,13 @@ hours:
 
 # ── Links (social, review sites, etc.) ───────────────────────────────────────
 links:
+  - label: "Rattle Tale Coffee - Official"
+    url: "https://rattletalecoffee.com/"
   - label: "Facebook: RattleTale Coffee & Such"
     url: "https://www.facebook.com/RattleTale"
   - label: "Instagram: RattleTale Coffee & Such"
     url: "https://www.instagram.com/rattletalecoffee"
-  - label: "Rattle Tale Coffee"
-    url: "https://rattletalecoffee.com/"
+
 
 # ── Menu (links to PDF, HTML, or external menu page) ─────────────────────────
 menu:
