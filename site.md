@@ -3,7 +3,7 @@
 # All sections marked (optional) can be removed if not needed.
 
 # ── Identity ──────────────────────────────────────────────────────────────────
-name: "RattleTale Coffee & Such"
+name: "Rattle Tale Coffee & Such"
 github: "https://github.com/djbrieck/RattleTale"
 
 # ── Operator (who runs this unofficial site) ──────────────────────────────────
@@ -33,8 +33,10 @@ links:
     url: "https://rattletalecoffee.com/"
   - label: "Facebook: RattleTale Coffee & Such"
     url: "https://www.facebook.com/RattleTale"
-  - label: "Instagram: RattleTale Coffee & Such"
+  - label: "Instagram: Rattle Tale Coffee & Such"
     url: "https://www.instagram.com/rattletalecoffee"
+  - label: "City of Union Chamber of Commerce - Rattle Tale Coffee & Such"
+    url: "https://cityofunionchamber.com/business/rattle-tale-coffee-such/"
 
 
 # ── Menu (links to PDF, HTML, or external menu page) ─────────────────────────
@@ -53,5 +55,9 @@ services:
 
 # -- Photos -----
 photos:
-  - label: "Storefront"
-    url: "img/rattleTaleStorefront.webp"
+  - label: "Store front"
+    url: "img/storefront.jpeg"
+  - label: "Outdoor Seating"
+    url: "img/outdoorSeating.jpeg"
+  - label: "Indoor Seating"
+    url: "img/indoorSeating.jpeg"
