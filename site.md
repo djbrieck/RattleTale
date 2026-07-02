@@ -41,10 +41,12 @@ links:
 
 # ── Menu (links to PDF, HTML, or external menu page) ─────────────────────────
 menu:
-  - label: "Menu - PDF"
-    url: "docs/RattleTaleMenus.pdf"
+  - label: "Menu - visual catalog"
+    url: "docs/RattleTaleMenuVisualCatalog/RattleTaleMenus.html"
   - label: "Menu - text only"
     url: "docs/RattleTaleMenus.html"
+  - label: "Menu - PDF"
+    url: "docs/RattleTaleMenus.pdf"
 
 # ── Services (optional) ───────────────────────────────────────────────────────
 services:
