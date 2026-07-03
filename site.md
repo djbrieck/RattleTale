@@ -43,7 +43,7 @@ links:
 menu:
   - label: "Menu - visual catalog"
     url: "docs/RattleTaleMenuVisualCatalog/RattleTaleMenus.html"
-  - label: "Menu - text only"
+  - label: "Menu - plain text"
     url: "docs/RattleTaleMenus.html"
   - label: "Menu - PDF"
     url: "docs/RattleTaleMenus.pdf"
