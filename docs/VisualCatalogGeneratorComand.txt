@@ -1,0 +1,3 @@
+#the command used to generate the visual catalog using the visual catalog generator program
+
+python3 odg_to_catalog.py RattleTaleMenus.odg --title "Rattle Tale Coffee & Such (Un-offical) - Menu - visual catalog" --css "../../css/style.css"
