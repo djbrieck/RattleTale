@@ -42,7 +42,7 @@ links:
 # ── Menu (links to PDF, HTML, or external menu page) ─────────────────────────
 menu:
   - label: "Menu - visual catalog"
-    url: "docs/RattleTaleMenuVisualCatalog/RattleTaleMenus.html"
+    url: "docs/RattleTaleMenusVisualCatalog/RattleTaleMenus.html"
   - label: "Menu - plain text"
     url: "docs/RattleTaleMenus.html"
   - label: "Menu - PDF"
